@@ -13,13 +13,17 @@ permalink: /matchday/
 Delivered at the end of the warm-up, to a group that's just physically lived it in the Gates Game — not read cold from a whiteboard.
 
 <div class="card-grid">
-  <a class="card" href="{{ '/on-pitch-prompts/' | relative_url }}">
+  <a class="card" href="{{ '/corners-attacking/' | relative_url }}">
     <h3>Corners — Attacking</h3>
     <p>Know your run, hit your zone.</p>
   </a>
-  <a class="card" href="{{ '/on-pitch-prompts/' | relative_url }}">
+  <a class="card" href="{{ '/corners-defending/' | relative_url }}">
     <h3>Corners — Defending</h3>
     <p>Know your role, pick your mark, be strong.</p>
+  </a>
+  <a class="card" href="{{ '/throw-ins/' | relative_url }}">
+    <h3>Throw-Ins</h3>
+    <p>Show before it's thrown, not after.</p>
   </a>
 </div>
 

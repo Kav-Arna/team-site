@@ -13,6 +13,10 @@ This is where you'll find the things we talk about on the training pitch, writte
 </div>
 
 <div class="card-grid">
+  <a class="card" href="{{ '/learn/' | relative_url }}">
+    <h3>Learn the Basics</h3>
+    <p>Formation, pitch lanes, Space, and the four phases of play.</p>
+  </a>
   <a class="card" href="{{ '/on-pitch-prompts/' | relative_url }}">
     <h3>On-Pitch Prompts</h3>
     <p>The four cues we use in every match.</p>
