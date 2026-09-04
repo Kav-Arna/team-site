@@ -1,0 +1,8 @@
+title: "Aston FC"
+description: "Player and family site — what we're working on, in plain language."
+author: "Coach Stephen"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+plugins: []
