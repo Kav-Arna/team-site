@@ -7,7 +7,7 @@ permalink: /matchday/
 ---
 
 <div class="qbox">
-<p>One thing today: <em>[this week's message goes here]</em></p>
+<p>One thing today: <em>Make and impact and affect the game. Complete a pass, press immediately, win the space, hit a shot, make a block. Whatever it takes to let the opponent know they are in a game that you want to win.</em></p>
 </div>
 
 Delivered at the end of the warm-up, to a group that's just physically lived it in the Gates Game — not read cold from a whiteboard.
