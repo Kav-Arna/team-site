@@ -25,5 +25,5 @@ Man-for-man: goal-side and ball-side of your attacker.
 Double up on their biggest attacking threat.
 
 <div class="qbox">
-<p>Know your role, pick your mark, be strong.</p>
+<p>Know your role, pick your opponent, be strong.</p>
 </div>
