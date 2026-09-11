@@ -40,7 +40,7 @@ Press and recover, or defend the emergency if stretched.
 
 <span class="space-tag">Space 3</span> Sprint goal-side and narrow — block path to goal, don't chase the ball.
 
-## Win the Ball — Look Up Before You Settle
+## Win the Ball — Look Up Before You Decide
 
 <span class="space-tag">Space 1</span> Look up before you decide.
 
