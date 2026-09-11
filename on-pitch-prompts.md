@@ -12,17 +12,17 @@ permalink: /on-pitch-prompts/
 
 ## In Possession — Beat the Next Line
 
-*Forward first. Open body to see it.*
+*Think forward first. Scan before the ball arrives. Open body to see both goals if you can.*
 
-<span class="space-tag">Space 1</span> Pin or bait — he jumps, pass. He holds, drive into the space.
+<span class="space-tag">Space 1</span> Pin or bait — he jumps, pass. He holds (or retreats), drive into the space.
 
-<span class="space-tag">Space 2</span> Show for the pass.
+<span class="space-tag">Space 2</span> Show for the pass. Open a lane. Create an angle.
 
-<span class="space-tag">Space 3</span> Drag your marker, open the lane.
+<span class="space-tag">Space 3</span> Drag your marker, destabilise their defence, keep connected.
 
 3 lanes always, a 4th on the ball side when it's on — never both wide lanes.
 
-## Out of Possession — Squeeze the Middle, Show Them Wide
+## Out of Possession — Fill the Middle, Show Them Wide
 
 <span class="space-tag">Space 1</span> Nearest player press quickly, DELAY, don't dive in.
 
@@ -36,16 +36,16 @@ Press and recover, or defend the emergency if stretched.
 
 <span class="space-tag">Space 1</span> Press immediately, delay the attack.
 
-<span class="space-tag">Space 2</span> Block the danger.
+<span class="space-tag">Space 2</span> Block the passing lanes.
 
-<span class="space-tag">Space 3</span> Sprint goal-side and narrow — cut lanes, don't chase.
+<span class="space-tag">Space 3</span> Sprint goal-side and narrow — block path to goal, don't chase the ball.
 
 ## Win the Ball — Look Up Before You Settle
 
 <span class="space-tag">Space 1</span> Look up before you decide.
 
-<span class="space-tag">Space 2</span> Show forward first.
+<span class="space-tag">Space 2</span> Play forward first if you can. If you aren't sure recycle.
 
 <span class="space-tag">Space 3</span> Run to disrupt.
 
-If it's not on, keep it simple and reset through the pivot or full-backs.
+If it's not on, or you aren't sure, keep it simple and reset through the pivot or full-backs.
