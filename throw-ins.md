@@ -7,10 +7,10 @@ permalink: /throw-ins/
 ---
 
 <div class="note">
-Drafted fresh for this site — not a copy of an earlier printed card.
+Throw-ins happen often, let's win them.
 </div>
 
-Unlike a corner, a throw-in doesn't get a fixed, rehearsed pattern. It resets play into a normal picture — the same Space 1/2/3 read you'd make anywhere else on the pitch.
+Unlike a corner, a throw-in doesn't get a fixed, rehearsed pattern. It resets play into a normal picture — the same Space 1/2/3 logic as anywhere else on the pitch.
 
 <div class="qbox">
 <p>Show before it's thrown, not after.</p>
