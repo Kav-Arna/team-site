@@ -10,9 +10,9 @@ permalink: /on-pitch-prompts/
 <p>Which Space am I in — 1, 2 or 3 — and what's my job right now?</p>
 </div>
 
-## In Possession — Beat the Next Line
+## In Possession — Play Forward if you can.
 
-*Think forward first. Scan before the ball arrives. Open body to see both goals if you can.*
+*Think forward first. Scan before the ball arrives. Open body to see both goals if possible.*
 
 <span class="space-tag">Space 1</span> Pin or bait — he jumps, pass. He holds (or retreats), drive into the space.
 
