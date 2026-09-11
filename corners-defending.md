@@ -2,7 +2,7 @@
 layout: default
 title: Corners — Defending
 eyebrow: Set Piece
-lede: Know your role, pick your mark, be strong.
+lede: Know your role, pick your opponent, be strong.
 permalink: /corners-defending/
 ---
 
