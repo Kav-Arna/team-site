@@ -18,18 +18,18 @@ Continuous shuttle, a 20–25m channel. Running and mobility drills are alternat
 
 1. Jog
 2. Heel flicks
-3. Leg swings
-4. Hip out
-5. Hip in
+3. Hip Out (Open the gate)
+4. Circling
+5. Hip in (Close the gate)
 6. Abductor stretch (walking)
-7. Circling
+7. Two forwards one back
 8. Walking deadlifts
 9. Bounding
-10. Two forwards, one back
+10. Leg swings
 11. Jog out, 70% sprint back
 
 <div class="note">
-This order is a suggested integration, not a fixed prescription — the original FIFA 11+ runs stay in sequence, with the mobility drills slotted in wherever the running channel gives a natural walk-back. Adjust to whatever the squad already has grooved in; consistency week to week matters more than this exact order.
+Injury prevention and muscle activation and stretching.
 </div>
 
 ## Gates Game — 8 min
